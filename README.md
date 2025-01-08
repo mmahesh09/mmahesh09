@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Intrested In Artificial Intelligence<br>📚 I'm currently learning Full Stacl<br>🎯 Goals: SDE<br>🎲 Chess</p>
+<p align="left">✨ Intrested In Artificial Intelligence<br>📚 I'm currently learning Full Stack<br>🎯 Goals: SDE<br>🎲 Chess</p>
 
 ###
 
