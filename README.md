@@ -14,30 +14,23 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,git,mysql,tensorflow" height="60" alt="core skills" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo" />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/trino/DD00A1" height="60" alt="trino logo" />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/apachesuperset/20A6C9" height="60" alt="superset logo" />
-</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white" height="35" alt="dbt" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Apache%20Iceberg-2E9FDE?style=for-the-badge&logo=apache&logoColor=white" height="35" alt="iceberg" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="35" alt="spark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="35" alt="kafka" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="docker" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="linux" />
+ 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff)](#)
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
+
 </div>
 
 <br/>
